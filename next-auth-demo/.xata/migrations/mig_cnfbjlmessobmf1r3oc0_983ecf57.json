@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnfbjlmessobmf1r3oc0",
+  "parentID": "mig_cnfbjhq0h19fm2pqugvg",
+  "checksum": "1:983ecf57c6875029c07f89afe1e3fd717af972379df081db33d38dd6a674fb48",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string",
+          "unique": true
+        },
+        "table": "folders"
+      }
+    }
+  ]
+}

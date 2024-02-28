@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Richard-Y-Hayashi-s-workspace-nlpafp.ap-southeast-2.xata.sh/db/test-auth-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

@@ -1,0 +1,7 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+# [Xata] Configuration used by the CLI and the SDK
+# Make sure your framework/tooling loads this file on startup to have it available for the SDK
+XATA_BRANCH=
+XATA_API_KEY=
